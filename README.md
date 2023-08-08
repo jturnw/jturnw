@@ -1,8 +1,8 @@
-<h1 align="center"> ⛐ It's jturnw</h1>
+<h1 align="center">It's jturnw 💻</h1>
 <h3 align="center">Engineer. Always looking to learn and improve.</h3>
 
 <br>
-- 🌱 I’m currently practicing **JS, Node.JS, React.js** daily. 
+- 🌱 I’m currently practicing <b>JS, Node.JS, React.js</b> daily. 
 <br>
 - ⚡ Open to collaborate on projects with these technologies.
 
