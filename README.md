@@ -2,13 +2,13 @@
 <h3 align="center">Engineer. Always looking to learn and improve.</h3>
 
 <br>
-- 🌱 I’m currently practicing <b>JS, Node.JS, React.js</b> daily. 
+-  I’m currently practicing <b>JS, Node.JS, React.js</b> daily. 
 <br>
-- ⚡ Open to collaborate on projects with these technologies.
+-  Open to collaborate on projects with these technologies.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Test Site Profiles:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/jturnw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jturnw" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jturnw" target="blank"><img align="center" src="https://www.svgrepo.com/show/306328/leetcode.svg" alt="jturnw" height="36" width="36" /></a> <a href="https://www.codewars.com/users/jturnw" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt="jturnw" height="36" width="36" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
