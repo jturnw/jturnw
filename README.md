@@ -1,4 +1,4 @@
-<h1 align="center" style="color: "#32a852";">It's jturnw 💻</h1>
+<h1 align="center" style="color: "#32a852";">It's Yigit. 💻</h1>
 <h3 align="center">Software Engineer</h3>
 
 <br>
