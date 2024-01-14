@@ -11,7 +11,7 @@
 
 <h3 align="center">Test Site Profiles:</h3>
 <p align="center">
-  <a href="https://www.leetcode.com/jturnw" target="blank"><img align="center" src="https://www.svgrepo.com/show/306328/leetcode.svg" alt="jturnw" height="32" width="32" /></a>  
+  <a href="https://www.leetcode.com/yigitad" target="blank"><img align="center" src="https://www.svgrepo.com/show/306328/leetcode.svg" alt="jturnw" height="32" width="32" /></a>  
   <a href="https://www.codewars.com/users/jturnw" target="blank"><img align="center" src="https://www.codewars.com/users/jturnw/badges/micro" alt="jturnw" /></a>
 </p>
 
